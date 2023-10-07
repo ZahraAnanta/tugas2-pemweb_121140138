@@ -1,0 +1,40 @@
+#header{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(102, 130, 239);
+    font-size: 30px;
+}
+.frame{
+    width: 600px;
+    height: 440px;
+    padding: 30px;
+    margin: auto;
+    background-color: rgb(230, 227, 229);
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+}
+#button {
+    background-color: rgb(235, 17, 17);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#huruf {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(149, 151, 156);
+    font-size: 15px;
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: #f2f2f2;
+}
